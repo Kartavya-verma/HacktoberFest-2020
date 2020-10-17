@@ -27,3 +27,7 @@ Place: Singapore <br />
 Name: [Manas Yadav](https://github.com/xMaNaSx) <br/>
 Place: India <br/>
 About: Student <br/>
+
+Name: [Kartavya Verma](https://github.com/Kartavya-verma) <br/>
+Place: India <br/>
+About: Student <br/>
